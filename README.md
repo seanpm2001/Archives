@@ -85,8 +85,18 @@ https://github.com/seanpm2001/Pynuke128
 
 **1 fork ignored**
 
+**10-11 entries missing (prior to 2025, June)**
+
+https://github.com/seanpm2001/Gurgle_Orcut_Docs-1
+
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer-1
+
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_Janet
+
+
+
 ***
 
-**File version:** `1 (2023, Tuesday, April 25th at 11:00 pm PST)`
+**File version:** `2 (2025, Monday, June 30th at 05:10 pm PST)`
 
 ***
