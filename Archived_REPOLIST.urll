@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: Archived_REPOLIST.urll
 //// URL list for archived source repositories by @seanpm2001
-//// 39 total repository links (as of 2025, Monday, June 30th at 05:13 pm PST), Version 1.
+//// 41 total repository links (as of 2025, Wednesday, August 6th at xx:xx pm PST) with 11 missing entries, Version 2.
 
-//// GitHub (39)
+//// GitHub (41)
 https://github.com/seanpm2001/SNU_2D_NFT_Manager
 https://github.com/seanpm2001/Template_DeGoogle_V1
 https://github.com/seanpm2001/Template_DeGoogle-your-Life_V1
@@ -44,13 +44,15 @@ https://github.com/seanpm2001/Pynuke128
 https://github.com/seanpm2001/Gurgle_Orcut_Docs-1
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer-1
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_Janet
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_RON
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move-1
 
 //// GitLab (0)
 
-//// 10-11 links missing, as of 2025, June 30th
+//// 10-11 links missing, as of 2025, Wednesday, August 6th
 
 //// File info
-//// File version: 1 (2025, Monday, June 30th at 05:13 pm PST)
-//// Line count (including blank lines and compiler line): 57
+//// File version: 2 (2025, Wednesday, August 6th at 08:25 pm PST)
+//// Line count (including blank lines and compiler line): 59
 
 //// End of file (EOF)
