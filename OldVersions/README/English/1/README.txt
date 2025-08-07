@@ -27,7 +27,7 @@ A list of all of my archived **source** repositories
 | 📜️ List |
 |---|
 
-> **Completeness:** `39` **/** `50` ( `078.00%` )
+> **Completeness:** `41` **/** `52` ( `078.84%` )
 
 - https://github.com/seanpm2001/SNU_2D_NFT_Manager
 - https://github.com/seanpm2001/Template_DeGoogle_V1
@@ -68,8 +68,8 @@ A list of all of my archived **source** repositories
 - https://github.com/seanpm2001/Gurgle_Orcut_Docs-1
 - https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer-1
 - https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_Janet
-- 40
-- 41
+- https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_RON
+- https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move-1
 - 42
 - 43
 - 44
@@ -79,12 +79,14 @@ A list of all of my archived **source** repositories
 - 48
 - 49
 - 50
+- 51
+- 52
 
 ***
 
 # File info
 
-- **File version:** `4 (2025, Monday, June 30th at 06:27 pm PST)`
+- **File version:** `5 (2025, Wednesday, August 6th at 08:33 pm PST)`
 - **Line count (including blank lines and compiler line):** `187`
 
 ***
@@ -166,6 +168,25 @@ A list of all of my archived **source** repositories
 - [ ] No other changes in version 4
 
 </details> <!-- End of V4 !-->
+
+---
+
+## Version 5 (2025, Wednesday, August 6th at 08:33 pm PST)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
+
+> **Note:** _Quick update to add the latest 2 archived repositories, I forgot to update this README when archiving them._
+
+> Changes:
+
+- [x] Added 2 new links
+- [x] Updated the completeness counter
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- End of V5 !-->
 
 ---
 
